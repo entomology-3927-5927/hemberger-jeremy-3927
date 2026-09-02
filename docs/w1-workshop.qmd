@@ -1,0 +1,15 @@
+---
+title: "Workshop Week 1"
+subtitle: "Testing the workflow!"
+author: Jeremy Hemberger
+date: last-modified
+date-format: long
+format: html
+---
+
+# This is my first report! 
+
+```{r}
+test <- 4
+sum(4)
+```
